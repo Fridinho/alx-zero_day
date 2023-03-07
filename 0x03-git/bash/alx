@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "ALX Shool is so cool!"
-=======
-echo "ALX school is so cool!"
->>>>>>> master
+echo "ALX Shool"
